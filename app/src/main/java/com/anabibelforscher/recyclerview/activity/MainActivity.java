@@ -64,5 +64,14 @@ public class MainActivity extends AppCompatActivity {
         filme = new Filme("Meu Amigo, o Dragão","Drama","2016");
         this.mListaFilme.add(filme);
 
+        filme = new Filme("Como Treinar o Seu Dragão","Animação","2010");
+        this.mListaFilme.add(filme);
+
+        filme = new Filme("Como Treinar o Seu Dragão 2","Animação","2014");
+        this.mListaFilme.add(filme);
+
+        filme = new Filme("Como Treinar o Seu Dragão 3","Animação","2019");
+        this.mListaFilme.add(filme);
+
     }
 }
